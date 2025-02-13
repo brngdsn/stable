@@ -1,8 +1,13 @@
-# STABLE CLI
+# STABLE FRAMEWORK
 
-**S**pecify Technologies, **T**ell User Stories, **A**rchitect the Conceptual Model, **B**uild the File Structure, **L**oop Through Fine-Grained Iterations, **E**valuate & Refine.
+**S**pecify Technologies
+**T**ell User Stories
+**A**rchitect the Conceptual Model
+**B**uild the File Structure
+**L**oop Through Fine-Grained Iterations
+**E**valuate & Refine
 
-Welcome to the **STABLE CLI**, an advanced Node.js command-line tool engineered to empower developers in creating robust and scalable applications through AI-assisted development. By guiding you through the proven STABLE Framework, this interactive tool ensures every project starts on a solid foundation—from initial technology selection to iterative refinement.
+Welcome to **STABLE Framework** and **STABLE CLI**, an advanced Node.js command-line tool engineered to empower developers in creating robust and scalable applications through AI-assisted development. By guiding you through the proven STABLE Framework, this interactive tool ensures every project starts on a solid foundation—from initial technology selection to iterative refinement.
 
 ---
 
